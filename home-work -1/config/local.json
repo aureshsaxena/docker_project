@@ -1,0 +1,18 @@
+{
+
+      "dbHost": "",
+      "dbUser": "",
+      "dbPass":"",
+      "dbPort": 3306,
+      "dbName":"",
+      "dbSSL":"",
+
+
+      "awsRegion": "",
+      "awsAccessKey": "",
+      "awsSecretAccessKey":"",
+      "awsQueueName":"",
+      "awsQueueUrl":""
+
+
+}

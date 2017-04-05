@@ -1,0 +1,15 @@
+{
+  "name": "homework-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aureshsaxena/docker_project.git"
+  },
+  "dependencies": {
+    "aws-sdk": "2.35.0",
+    "config": "^1.25.1",
+    "mysql": "^2.13.0"
+  }
+}
